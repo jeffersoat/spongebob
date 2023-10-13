@@ -7,8 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: body
-    second: {fileID: 2100000, guid: 0c3c94138f1cd0843a7402c3e2b242e2, type: 2}
+      name: eyes
+    second: {fileID: 2100000, guid: a05a2544551f8e1449184eab1ec1b1d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shorts
+    second: {fileID: 2100000, guid: 4e15306da3aca7e42a94d57e42346ff1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
