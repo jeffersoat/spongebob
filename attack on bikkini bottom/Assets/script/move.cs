@@ -1,5 +1,5 @@
 using UnityEngine;
-public class move_player : MonoBehaviour
+public class Move_player : MonoBehaviour
 {
     Vector3 pos;
 
